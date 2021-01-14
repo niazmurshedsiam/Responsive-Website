@@ -24,7 +24,7 @@ p {
     color: dimgrey;
   }
 .buy-now-btn{
-    background-image: linear-gradient(to bottom, lightsalmon, tomato 100%);
+    background-image: linear-gradient(to bottom,  lightsalmon, tomato 100%);
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -47,7 +47,7 @@ h1 {
 .navbar-container{
     
     background-color:#262B37;
-    position: static;
+    position: sticky;
     top: 0;
     z-index:2;
 
